@@ -6,7 +6,7 @@ from esphome.const import CONF_ID
 from esphome.cpp_types import ESPIDFComponent
 
 DEPENDENCIES = ["esp32"]
-CODEOWNERS = ["@yourusername"]
+CODEOWNERS = ["@VitusTL"]
 AUTO_LOAD = ["littlefs"]
 
 littlefs_ns = cg.esphome_ns.namespace("littlefs")
