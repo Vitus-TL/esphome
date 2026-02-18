@@ -10,11 +10,9 @@ CODEOWNERS = ["@VitusTL"]
 AUTO_LOAD = ["littlefs"]
 
 littlefs_ns = cg.esphome_ns.namespace("littlefs")
-LittleFSComponent = ESPIDFComponent(littlefs_ns, "littlefs_component")
+LittleFSComponent = cg.CPPClass("LittleFSComponent", cg.Component)
 
-CONFIG_SCHEMA = cv.Schema({
-    cv.GenerateID(): cv.declare_id(LittleFSComponent),
-}).extend(cv.COMPONENT_SCHEMA)
+CONFIG_SCHEMA = component.COMPONENT_SCHEMA
 
 async def to_code(config):
     var = cg.new_Pvariable(config[CONF_ID])
