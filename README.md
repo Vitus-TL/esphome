@@ -286,3 +286,7 @@ The i18n project was made by [alaltitov](https://github.com/alaltitov) in his fr
 **ETH/USDT (ERC-20):** `0x9fF0E16a58229bEcdFDf47d9759f20bE77356994`
 
 Or just put ⭐ on his repo. Thank you
+
+The esp_littlefs code was made by [joltwallet](https://github.com/joltwallet)
+
+Adaptation as ESPHome component is being done by me [VITUS-TL](https://github.com/VITUS-TL)
