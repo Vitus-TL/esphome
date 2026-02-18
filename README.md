@@ -281,8 +281,8 @@ LVGL ESPHome `roller` object example
 ## 💝 Support the Project
 Made with ❤️ for the ESPHome community
 
-This project was made in my free time and if it was useful to you, you can support me if you find it necessary 😊:
+The i18n project was made by 'Alaltitov' in his free time and if it was useful to you, you can support him on the original page: github://alaltitov
 
 **ETH/USDT (ERC-20):** `0x9fF0E16a58229bEcdFDf47d9759f20bE77356994`
 
-Or just put ⭐ Thank you
+Or just put ⭐ on his repo. Thank you
