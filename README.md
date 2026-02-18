@@ -289,4 +289,4 @@ Or just put ⭐ on his repo. Thank you
 
 The esp_littlefs code was made by [joltwallet](https://github.com/joltwallet)
 
-Adaptation as ESPHome component is being done by me [VITUS-TL](https://github.com/VITUS-TL)
+Adaptation as ESPHome component is being done by me [Vitus-TL](https://github.com/Vitus-TL)
