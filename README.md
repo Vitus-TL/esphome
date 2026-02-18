@@ -1,5 +1,5 @@
 
-# 🌍 **Internationalization (i18n) component for ESPHome**
+# 🌍 **Internationalization (i18n) and (LittleFS) component for ESPHome**
 
 <div align="center">
 
