@@ -38,7 +38,7 @@
 
 ## 📋 **Requirements**
 
-- **ESPHome** >= 2025.9.0
+- **ESPHome** >= 2026.1.3
 - **LVGL Component** (for UI integration)
 - **Python 3.8+** (for build process)
 - **PyYAML** (automatically installed)
