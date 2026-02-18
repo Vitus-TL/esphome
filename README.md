@@ -51,8 +51,8 @@
 
 ```yaml
 external_components:
-  - source: github://alaltitov/esphome
-    components: [i18n]
+  - source: github://VITUS-TL/esphome
+    components: [i18n littlefs]
 ```
 
 2. **Create Translation Files (for example):**
