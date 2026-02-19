@@ -169,8 +169,8 @@ i18n:
 | `sources` | List | Yes | List of YAML translation files |
 | `default_locale` | String | No | Default locale on boot|
 
-More about LittleFS:
-https://components.espressif.com/components/joltwallet/littlefs/versions/1.20.4/readme (be aware, ESP-IDF native options do not translate 1:1 to esp32 configuration)
+More about LittleFS (be aware, ESP-IDF native options do not translate 1:1 to esp32 configuration):
+https://components.espressif.com/components/joltwallet/littlefs/versions/1.20.4/readme
 https://github.com/joltwallet/esp_littlefs
 
 ## 📚 API
